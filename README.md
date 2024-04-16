@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Microsoft- and AWS-certified full stack engineer with 10 years of experience in developing enterprise applications. 
+
+My skills are:
+✅ C#/.NET/ASP.NET
+✅ Databases (SQL Server, CosmosDB, MongoDB)
+✅ AWS (EC2, RDS, Lambda, CloudFront, SQS, CI/CD, ElastiCache, CloudFormation)
+✅ Azure (Web Apps, Functions, CosmosDB, Static Web App)
+✅ CI/CD (AWS, GitHub Actions, Teamcity, Octopus)
+✅ Infrastructure-as-Code (Terraform, AWS CloudFormation, Spacelift)
+✅ Containers (Docker, Kubernetes)
+✅ Testing (unit, load)
+✅ Search engines (Lucene, ElasticSearch)
+
