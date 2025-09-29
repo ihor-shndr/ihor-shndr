@@ -38,4 +38,4 @@ My skills are:
 ✅ Search engines (Lucene, ElasticSearch)
 
 
-I am also interested in blockchain development (Solana, Ethereum) and AI technologies. 
+I am also passionate about AI technologies. 
